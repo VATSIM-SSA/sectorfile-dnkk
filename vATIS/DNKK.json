@@ -1,6 +1,8 @@
 {
-	"Name": "DNKK Kano FIR v2",
-	"Composites": [
+	"Name": "DNKK Kano FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-dnkk/refs/heads/main/vATIS/DNKK.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Abuja Nnamdi Aziikiwe Intl",
 			"Identifier": "DNAA",
