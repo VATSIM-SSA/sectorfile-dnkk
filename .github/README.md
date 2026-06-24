@@ -18,7 +18,7 @@ The Kano FIR covers the entirety of Nigeria. It is neighboured by the Accra FIR 
 
 ## Countries & Territories
 
-- [Nigeria](https://eaip.vatssa.com/country/nigeria)
+- Nigeria
 
 ## Key Airports
 
@@ -30,7 +30,7 @@ The Kano FIR covers the entirety of Nigeria. It is neighboured by the Accra FIR 
 
 Full sector file releases are available on [AeroNav GNG](https://files.aero-nav.com/DNKK).
 
-For setup, see the VATSSA [EuroScope & Sector File Installation Guide](https://github.com/VATSIM-SSA/sectorfile-overview/wiki).
+For setup, see the VATSSA [EuroScope & Sector File Installation Guide](https://docs.vatssa.com/New-Controllers/).
 
 > [!WARNING]
 > Releases published on GitHub do not include all essential files for the sector file. Always install the complete package from AeroNav GNG.
